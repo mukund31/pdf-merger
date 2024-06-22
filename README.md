@@ -2,10 +2,10 @@
 
 Requirements:
 
-Install npm
-npm install -g npm
+Install npm:
+npm init -y
 
-Install express
+Install express:
 npm i express
 
 Install pdf merger library:
